@@ -1,8 +1,8 @@
 {
   "name": "phantoon",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "https://tylergoodman.github.io/phantoon",
+  "main": "",
   "scripts": {
     "dev-server": "lite-server",
     "build": "tsc",
